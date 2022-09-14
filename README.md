@@ -1,2 +1,2 @@
-# mix-mall-
+# mix-mall
 uni-app
